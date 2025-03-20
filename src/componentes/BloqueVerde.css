@@ -1,0 +1,41 @@
+.Bloque-verde {
+  width: 548px;
+  height: 340px;
+  margin : 0px;
+  margin-left: 70px;
+  margin-left: 25px;
+  position: relative;
+  left: 519px;
+  z-index: 500;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  top: -15px;
+
+  }
+
+  .Caja-verde-uno{
+    width: 690px;
+    height: 180px;
+    margin: 15px;
+    margin-left: 95px;
+    padding: 15px;
+    background-color: rgb(68, 247, 91);
+    border: 4px solid black;
+    box-sizing: border-box;
+
+
+  }
+
+  .Caja-verde-dos{
+    width: 690px;
+    height: 180px;
+    margin-left: 95px;
+    padding: 15px;
+    background-color: rgb(68, 247, 91);
+    border: 4px solid black;
+    box-sizing: border-box;
+    top: 15px;
+
+
+  }

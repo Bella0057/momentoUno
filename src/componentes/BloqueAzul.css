@@ -1,0 +1,48 @@
+.Caja-azul {
+    width: 650px;
+    height: 140px;
+    margin: 15px;
+    margin-left: 92px;
+    position: relative;
+    top: -22px;
+    left: 550px;
+    z-index: 500;
+    display: flex;
+    flex-direction: row; /* Cambiado a row */
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    .Caja-azul-uno {
+    width: 50%;
+    height: 100%;
+    margin: 15px ;
+    margin-left: 100px;
+    background-color: rgb(60, 209, 236);
+    border: 4px solid black;
+    box-sizing: border-box;
+    margin-left: 0%;
+    margin-right: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    }
+    
+    .Caja-azul-dos {
+        width: 50%;
+        height: 100%;
+        margin: 15px ;
+        background-color: rgb(60, 209, 236);
+        border: 4px solid black;
+        box-sizing: border-box;
+        margin-right: 0%;
+        margin-left: 2%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /*.Caja-azul-uno h1, .Caja-azul-dos h1 {
+        margin: 0; /* Elimina el margen por defecto del h1 para centrarlo bien */
+      
